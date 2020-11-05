@@ -1,3 +1,4 @@
+// 改写浏览器加载的文件路径（相对路径 -> 相对根目录的路径）
 import path from 'path'
 import chalk from 'chalk'
 import fs from 'fs-extra'
